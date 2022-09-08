@@ -1,4 +1,11 @@
-header{
+
+*{
+    margin:0 auto;
+    padding: 0;
+    font-family: "0pen Sans",sans-serif;
+    font-size: 16px;
+}
+    header{
     background-image: url(../images/apple-pie.jpg);
     background-size: cover;
     background-repeat: no-repeat;
