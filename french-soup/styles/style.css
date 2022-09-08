@@ -29,6 +29,7 @@ header h1{
   color: white;
   font-size: 4rem;
   font-weight: bold;
+  
 }
 .parafo{
   display: flex;
@@ -39,12 +40,19 @@ header h1{
 .parafo p{
   padding: 3rem;
   width: 80%;
+  text-align: center;
 }
 .ingredients-img{
-  display: flex;
+  /* display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: center; */
+  margin-left: 10%;
+}
+
+.img-set{
+ display: flex;
+ justify-content: center;
 }
 .list-directions{
   display: flex;
